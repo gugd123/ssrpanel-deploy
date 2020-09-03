@@ -27,8 +27,8 @@ chmod +x deploy.sh
 ###自己备份的脚本：
 ```
  wget -N --no-check-certificate https://raw.githubusercontent.com/gugd123/ssrpanel-deploy/master/deploy1.sh
- chmod +x deploy.sh
- ./deploy.sh
+ chmod +x deploy1.sh
+ ./deploy1.sh
 ```
 
 ### 说明
